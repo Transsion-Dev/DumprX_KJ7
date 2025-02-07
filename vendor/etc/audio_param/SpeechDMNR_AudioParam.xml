@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AudioParam version="1.0">
+  <ParamTree>
+    <Param path="NB" param_id="0"/>
+    <Param path="NB,Handset" param_id="7"/>
+    <Param path="NB,MagiConference" param_id="1"/>
+    <Param path="WB" param_id="2"/>
+    <Param path="WB,Handset" param_id="8"/>
+    <Param path="WB,MagiConference" param_id="3"/>
+    <Param path="SWB" param_id="4"/>
+    <Param path="SWB,Handset" param_id="6"/>
+    <Param path="SWB,MagiConference" param_id="5"/>
+  </ParamTree>
+  <ParamUnitPool>
+    <ParamUnit param_id="0">
+      <Param name="dmnr_para" value="0x100,0xD1A,0xF3D,0xF901,0x0,0x0,0x0,0x0,0x0,0x0,0x100F,0x800F,0x8012,0x12F,0x12F,0x0,0x0,0x0,0x0,0x0,0x502C,0x6530,0x0,0xA40C,0x0,0xFA0,0x0,0x400,0x0,0x0,0x0,0x3E8,0x0,0x0,0x0,0x0,0x3A98,0x0,0x0,0x0,0x0,0x0,0x0,0x66BB"/>
+      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_enh_pmv_gain" value="0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_out_iir_enh_pmv_gain" value="0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_in_iir_enh_pmv_freq" value="1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000"/>
+      <Param name="sph_out_iir_enh_pmv_freq" value="1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000"/>
+      <Param name="sph_in_iir_enh_pmv_type" value="0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6"/>
+      <Param name="sph_out_iir_enh_pmv_type" value="0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6"/>
+      <Param name="sph_in_iir_enh_pmv_qfactor" value="1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000"/>
+      <Param name="sph_out_iir_enh_pmv_qfactor" value="1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000"/>
+    </ParamUnit>
+    <ParamUnit param_id="1">
+      <Param name="dmnr_para" value="0x8080,0xD06,0x2E6D,0xF901,0x0,0x0,0x0,0x0,0x0,0x0,0x600F,0x800F,0x8012,0x81,0x81,0x0,0x0,0x0,0x0,0x0,0x50BC,0x6529,0x0,0xA40D,0x800,0xFA0,0x0,0x0,0x0,0x0,0x0,0x3E8,0x0,0x0,0x0,0x0,0x4DFF,0x0,0x0,0x0,0x0,0x0,0x0,0x66BB"/>
+      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_enh_pmv_gain" value="0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_out_iir_enh_pmv_gain" value="0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_in_iir_enh_pmv_freq" value="1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000"/>
+      <Param name="sph_out_iir_enh_pmv_freq" value="1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000"/>
+      <Param name="sph_in_iir_enh_pmv_type" value="0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6"/>
+      <Param name="sph_out_iir_enh_pmv_type" value="0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6"/>
+      <Param name="sph_in_iir_enh_pmv_qfactor" value="1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000"/>
+      <Param name="sph_out_iir_enh_pmv_qfactor" value="1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000"/>
+    </ParamUnit>
+    <ParamUnit param_id="2">
+      <Param name="dmnr_para" value="0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x44,0x0,0x0,0x0"/>
+      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_enh_pmv_gain" value="0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_out_iir_enh_pmv_gain" value="0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_in_iir_enh_pmv_freq" value="1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000"/>
+      <Param name="sph_out_iir_enh_pmv_freq" value="1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000"/>
+      <Param name="sph_in_iir_enh_pmv_type" value="0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6"/>
+      <Param name="sph_out_iir_enh_pmv_type" value="0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6"/>
+      <Param name="sph_in_iir_enh_pmv_qfactor" value="1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000"/>
+      <Param name="sph_out_iir_enh_pmv_qfactor" value="1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000"/>
+    </ParamUnit>
+    <ParamUnit param_id="3">
+      <Param name="dmnr_para" value="0x1695,0x0,0x17AB,0xE86,0x49A,0x1069,0xDCCD,0x193A,0xEA33,0xF0FB,0xE9DC,0xECFD,0x1620,0xD3DE,0x375D,0xF66D,0xDEE1,0x1CF1,0xDB1D,0x21D,0xECFE,0xFDD6,0xE6D7,0xFE20,0xA91D,0xDFC5,0x1461,0x23D3,0xFCE0,0x780,0x631,0x59C,0x8,0x3,0x3,0xF3D,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x1964,0x1838,0x2F21,0x1395,0xEA9,0x2F14,0x1DDE,0x169F,0x2D86,0x2BB7,0x38CD,0x30B3,0x2571,0x34CB,0x4258,0x337C,0x3BB8,0x1964,0x2,0x0,0x0,0x66BB,0x44,0x0,0x0,0x0"/>
+      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_enh_pmv_gain" value="0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_out_iir_enh_pmv_gain" value="0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_in_iir_enh_pmv_freq" value="1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000"/>
+      <Param name="sph_out_iir_enh_pmv_freq" value="1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000"/>
+      <Param name="sph_in_iir_enh_pmv_type" value="0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6"/>
+      <Param name="sph_out_iir_enh_pmv_type" value="0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6"/>
+      <Param name="sph_in_iir_enh_pmv_qfactor" value="1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000"/>
+      <Param name="sph_out_iir_enh_pmv_qfactor" value="1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000"/>
+    </ParamUnit>
+    <ParamUnit param_id="4">
+      <Param name="dmnr_para" value="0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0xC524,0x7A90,0x4000,0x8001,0xC090,0x7F54,0x4000,0x800A,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2,0xC524,0x7A90,0x4000,0x8001,0xC090,0x7F54,0x4000,0x800A,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0"/>
+      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_enh_pmv_gain" value="0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_out_iir_enh_pmv_gain" value="0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_in_iir_enh_pmv_freq" value="1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000"/>
+      <Param name="sph_out_iir_enh_pmv_freq" value="1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000"/>
+      <Param name="sph_in_iir_enh_pmv_type" value="0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6"/>
+      <Param name="sph_out_iir_enh_pmv_type" value="0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6"/>
+      <Param name="sph_in_iir_enh_pmv_qfactor" value="1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000"/>
+      <Param name="sph_out_iir_enh_pmv_qfactor" value="1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000"/>
+    </ParamUnit>
+    <ParamUnit param_id="5">
+      <Param name="dmnr_para" value="0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2,0xC524,0x7A90,0x4000,0x8001,0xC090,0x7F54,0x4000,0x800A,0x0,0x0,0x0,0x0,0x0,0x0,0xF2D,0x69,0x71,0xA,0x140,0x0,0x0,0x0,0x0,0xF930,0x1F10,0x6BF6,0x6488,0x60,0x4,0xF930,0x1F10,0x6BF6,0x6488,0x60,0x4"/>
+      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_enh_pmv_gain" value="0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_out_iir_enh_pmv_gain" value="0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_in_iir_enh_pmv_freq" value="1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000"/>
+      <Param name="sph_out_iir_enh_pmv_freq" value="1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000"/>
+      <Param name="sph_in_iir_enh_pmv_type" value="0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6"/>
+      <Param name="sph_out_iir_enh_pmv_type" value="0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6"/>
+      <Param name="sph_in_iir_enh_pmv_qfactor" value="1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000"/>
+      <Param name="sph_out_iir_enh_pmv_qfactor" value="1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000"/>
+    </ParamUnit>
+    <ParamUnit param_id="6">
+      <Param name="dmnr_para" value="0x8080,0xD06,0x2E6D,0xF901,0x0,0x0,0x0,0x0,0x0,0x0,0x600F,0x800F,0x8012,0x81,0x81,0x0,0x0,0x0,0x0,0x0,0x50BC,0x6529,0x0,0xA40D,0x800,0xFA0,0x0,0x0,0x0,0x0,0x0,0x3E8,0x0,0x0,0x0,0x0,0x4DFF,0x0,0x0,0x0,0x0,0x0,0x0,0x66BB,0xF2D,0x69,0x71,0xA,0x140,0x0,0x0,0x0,0x0,0xF930,0x1F10,0x6BF6,0x6488,0x60,0x4,0xC524,0x7A90,0x4000,0x8001,0xC090,0x7F54,0x4000,0x800A,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2,0xC524,0x7A90,0x4000,0x8001,0xC090,0x7F54,0x4000,0x800A,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x3BB,0x2,0xF2D,0x69,0x71,0xA,0x140,0x0,0x0,0x0,0x0"/>
+      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_enh_pmv_gain" value="0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_out_iir_enh_pmv_gain" value="0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_in_iir_enh_pmv_freq" value="1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000"/>
+      <Param name="sph_out_iir_enh_pmv_freq" value="1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000"/>
+      <Param name="sph_in_iir_enh_pmv_type" value="0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6"/>
+      <Param name="sph_out_iir_enh_pmv_type" value="0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6"/>
+      <Param name="sph_in_iir_enh_pmv_qfactor" value="1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000"/>
+      <Param name="sph_out_iir_enh_pmv_qfactor" value="1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000"/>
+    </ParamUnit>
+    <ParamUnit param_id="7">
+      <Param name="dmnr_para" value="0x8080,0xD06,0x2E6D,0xF901,0x0,0x0,0x0,0x0,0x0,0x0,0x600F,0x800F,0x8012,0x81,0x81,0x0,0x0,0x0,0x0,0x0,0x50BC,0x6529,0x0,0xA40D,0x800,0xFA0,0x0,0x0,0x0,0x0,0x0,0x3E8,0x0,0x0,0x0,0x0,0x4DFF,0x0,0x0,0x0,0x0,0x0,0x0,0x66BB"/>
+      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_enh_pmv_gain" value="0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_out_iir_enh_pmv_gain" value="0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_in_iir_enh_pmv_freq" value="1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000"/>
+      <Param name="sph_out_iir_enh_pmv_freq" value="1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000"/>
+      <Param name="sph_in_iir_enh_pmv_type" value="0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6"/>
+      <Param name="sph_out_iir_enh_pmv_type" value="0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6"/>
+      <Param name="sph_in_iir_enh_pmv_qfactor" value="1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000"/>
+      <Param name="sph_out_iir_enh_pmv_qfactor" value="1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000"/>
+    </ParamUnit>
+    <ParamUnit param_id="8">
+      <Param name="dmnr_para" value="0x24DA,0x0,0x3329,0x7E5,0x2179,0xCBC,0x40C1,0x5833,0xC438,0x2FEF,0xEE1C,0x970,0xF555,0x1E36,0x3D87,0x5831,0x4AF6,0x841D,0x52B1,0xEB7F,0x3BC4,0x21C3,0x1C5A,0x55F,0x28B0,0x15,0x30E8,0x800,0x34EC,0xF1F2,0x33EF,0xEE1D,0x8,0x4,0x3,0x868,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x1388,0x1838,0x3151,0xE93,0xF2C,0x25A6,0x39A1,0x1909,0x1C62,0x25F4,0x3500,0x4023,0x1FD9,0x1D16,0x1B97,0xF4D,0x180C,0x3C59,0x0,0x0,0x0,0x66BB,0x44,0x0,0x0,0x0"/>
+      <Param name="sph_in_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_out_iir_enh_eq_freq" value="100.000000,800.000000,1600.000000,2400.000000,3200.000000,4000.000000"/>
+      <Param name="sph_in_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_out_iir_enh_eq_mag" value="1.000000,2.000000,3.000000,4.000000,5.000000,6.000000"/>
+      <Param name="sph_in_iir_enh_pmv_gain" value="0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_out_iir_enh_pmv_gain" value="0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000"/>
+      <Param name="sph_in_iir_enh_pmv_freq" value="1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000"/>
+      <Param name="sph_out_iir_enh_pmv_freq" value="1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000,1000.000000"/>
+      <Param name="sph_in_iir_enh_pmv_type" value="0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6"/>
+      <Param name="sph_out_iir_enh_pmv_type" value="0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6,0x6"/>
+      <Param name="sph_in_iir_enh_pmv_qfactor" value="1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000"/>
+      <Param name="sph_out_iir_enh_pmv_qfactor" value="1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000,1.000000"/>
+    </ParamUnit>
+  </ParamUnitPool>
+</AudioParam>
